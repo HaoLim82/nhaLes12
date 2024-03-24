@@ -23,7 +23,7 @@ img {
     size: 100x100;
 }
 
-.center {
+table.center {
     margin-left:auto;
     margin-right:auto;
 }
