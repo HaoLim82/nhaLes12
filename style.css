@@ -1,29 +1,29 @@
-body{
+body {
     color: aquamarine;
     background-color: brown;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-H2{
+H2 {
     color:black;
     text-align: center;
 }
 
-caption{
+caption {
     color:blue;
     
 }
 
-footer{
+footer {
     color:blue;
     text-align: center;
 }
 
-img{
+img {
     size: 100x100;
 }
 
-.center{
+.center {
     margin-left:auto;
     margin-right:auto;
 }
