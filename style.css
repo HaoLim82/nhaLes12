@@ -22,3 +22,7 @@ footer{
 img{
     size: 100x100;
 }
+
+tbody{
+    align-content:center;
+}
