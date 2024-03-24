@@ -23,6 +23,7 @@ img{
     size: 100x100;
 }
 
-tbody{
-    align-content:center;
+.center{
+    margin-left:auto;
+    margin-right:auto;
 }
